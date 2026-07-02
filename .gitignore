@@ -1,0 +1,21 @@
+# 前端
+frontend/node_modules/
+frontend/dist/
+
+# 后端
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.venv/
+backend/venv/
+backend/data/chroma/
+backend/data/knowledge_base.db
+backend/data/uploads/
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
